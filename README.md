@@ -1,4 +1,7 @@
 <img width="987" height="693" alt="Product Home Screen PDF Converter" src="https://github.com/user-attachments/assets/e531f386-5c03-4ac2-8f52-8f8aedcc1bc7" />Windows PDF Converter Pro
+
+Windows PDF Converter Pro ("Performance you can feel, simplicity you'll appreciate.")
+
 Overview
 
 Windows PDF Converter Pro (EXE file download: https://igrf.co.in/en/software/) is a comprehensive PDF conversion and management tool developed by IGRF Pvt. Ltd. This powerful application provides a user-friendly graphical interface for converting between various document formats, with extensive PDF manipulation capabilities including merging, splitting, encryption, compression, and watermarking.
@@ -249,3 +252,4 @@ Special thanks to the open-source communities behind:
     Poppler
 
 Windows PDF Converter Pro - Your Complete PDF Solution
+("Performance you can feel, simplicity you'll appreciate.")
