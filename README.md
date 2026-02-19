@@ -77,20 +77,6 @@ The application can automatically download and install:
 
     Poppler (PDF text extraction utilities)
 
-Installation Options
-Portable Mode
-
-Place the executable in a folder with a tools subdirectory containing portable versions of required tools:
-text
-
-YourAppFolder/
-├── WindowsPDFConverterPro.exe
-├── tools/
-│   ├── ghostscript/
-│   ├── libreoffice/
-│   ├── imagemagick/
-│   └── poppler/
-
 System Installation
 
 Run with administrator privileges to install missing tools to Program Files automatically.
